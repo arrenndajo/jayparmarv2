@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
         <Reveal>
           <div className="mb-8">
             <img
-              src="jp.jpg"
+              src="/jp.jpg"
               alt="Jay Parmar"
               className="w-40 h-40 md:w-64 md:h-64 rounded-full mx-auto object-cover border-2 border-gray-600"
             />
@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
             </a>
 
             <a
-              href="/Jay-Parmar-Resume.pdf"
+              href="/jayparmarresume.pdf"
               download
               className="w-full sm:flex-1 h-14"
             >
