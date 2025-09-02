@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
             </a>
 
             <a
-              href="/jayparmarresume.pdf"
+              href="/Jay-Parmar-Resume.pdf"
               download
               className="w-full sm:flex-1 h-14"
             >
