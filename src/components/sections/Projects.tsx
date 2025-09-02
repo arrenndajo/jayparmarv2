@@ -9,7 +9,7 @@ const Projects: React.FC = () => {
       description:
         "Expense Tracker web app solution built with React and Tailwind CSS. Features include analytics, detailed report of your spending.",
       tech: ["React", "Tailwind CSS"],
-      image: "/ExpenseTrackerApp.png",
+      image: "/expensetrackerapp.png",
       github: "https://github.com/arrenndajo/ExpenseTrackerWebApp",
       live: "https://expensetrackerwebappjp.netlify.app/",
     },
@@ -18,7 +18,7 @@ const Projects: React.FC = () => {
       description:
         "A Basic To-Do List Web App using HTML, CSS & JavaScript. Featuring local storage, and buttons like add, delete, mark complete.",
       tech: ["HTML CSS JS", "Firebase"],
-      image: "/DonezoToDoList.png",
+      image: "/donezotodolist.png",
       github: "https://github.com/arrenndajo/Donezo-To-Do-List",
       live: "https://donezo.web.app/",
     },
@@ -27,7 +27,7 @@ const Projects: React.FC = () => {
       description:
         "A calculator app using HTML, CSS & JavaScript. Made it similar to iOS Calculator App.",
       tech: ["HTML", "CSS", "JavaScript"],
-      image: "/CalcifyCalculator.png",
+      image: "/calcifycalculator.png",
       github: "https://github.com/arrenndajo/Calcify-calculator",
       live: "https://arrenndajo.github.io/Calcify-calculator/",
     },
