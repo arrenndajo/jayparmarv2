@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
         <Reveal>
           <div className="mb-8">
             <img
-              src="/jp.jpg"
+              src="jp.jpg"
               alt="Jay Parmar"
               className="w-40 h-40 md:w-64 md:h-64 rounded-full mx-auto object-cover border-2 border-gray-600"
             />
