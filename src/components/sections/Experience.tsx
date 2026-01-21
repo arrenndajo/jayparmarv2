@@ -11,7 +11,7 @@ const Experience: React.FC = () => {
       duration: "Feb 2024 - Feb 2024",
       type: "Internship",
       description:
-        "Developed and maintained weather web app using Web frameworks.",
+        "Developed and maintained a weather web app using Web frameworks.",
       achievements: [
         "Developed WeatherHub, a weather app that provides real-time city-specific weather updates creating a responsive interface and improving user engagement with fast and intuitive navigation.",
         "Integrated Rapid API to fetch real-time weather data using JavaScript’s asynchronous functionality, reducing data retrieval time by 30%.",
@@ -25,10 +25,11 @@ const Experience: React.FC = () => {
       duration: "Dec 2023 - Jan 2024",
       type: "Internship",
       description:
-        "Assisted in developing client websites and web applications. Learned modern development practices and collaborated with senior developers.",
+        "I worked on analyzing real-world datasets, building basic machine learning models, and visualizing insights using Python to support data-driven decisions.",
       achievements: [
-        "Developed a Linear Regression Model to forecast company profits based on Research and Development Spend, Administration Costs, and Marketing Spend.",
-        "Utilized Python alongside the frameworks NumPy and Pandas.",
+        "Analyzed and preprocessed real-world datasets using Python (Pandas, NumPy) to extract meaningful insights through exploratory data analysis.",
+        "Built and evaluated basic machine learning models using Scikit-learn to understand patterns and improve prediction accuracy.",
+        "Created clear data visualizations and summary reports using Matplotlib and Seaborn to communicate insights effectively.",
       ],
     },
   ];
