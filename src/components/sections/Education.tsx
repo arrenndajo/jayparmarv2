@@ -9,10 +9,20 @@ const Education: React.FC = () => {
       field: "Artificial Intelligence and Data Science Engineering",
       institution: "K. J. Somaiya Institute of Technology",
       location: "Mumbai, India",
-      duration: "2020 - 2024",
-      gpa: "8.47/10",
+      duration: "Jul 2020 - May 2024",
+      gpa: "3.5",
       description:
         "Coursework: Data Structures & Algorithm, Operating Systems, Computer Architecture, DBMS, AI/ML, NLP, Software Engineering, IoT, Threat Analysis & Modeling, Data Analytics & Visualization, Data Mining, Data Warehousing, AI in Healthcare, and AI in E-Commerce.",
+    },
+    {
+      degree: "Master of Science",
+      field: "Computer Science",
+      institution: "Arizona State University",
+      location: "Tempe, Arizona",
+      duration: "Jan 2026 - Dec 2027",
+      gpa: "4",
+      description:
+        "Coursework: Statistical Machine Learning, Semantic Web Mining, Principles of Programming Languages",
     },
   ];
 
