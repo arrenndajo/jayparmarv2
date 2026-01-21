@@ -43,7 +43,11 @@ html, body {
 }
 
 .grainy-bg {
-  background: #ffffff;
+  background:
+    radial-gradient(circle at 25% 25%, #000050 0%, transparent 45%),
+    radial-gradient(circle at 75% 75%, #000025 0%, transparent 45%),
+    radial-gradient(circle at 50% 10%, #000000 0%, transparent 35%),
+    linear-gradient(135deg, #000050 0%, #000025 40%, #000000 100%);
   position: relative;
   min-height: 100vh;
 }
