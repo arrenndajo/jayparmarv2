@@ -25,7 +25,7 @@ const Experience: React.FC = () => {
       duration: "Dec 2023 - Jan 2024",
       type: "Internship",
       description:
-        "I worked on analyzing real-world datasets, building basic machine learning models, and visualizing insights using Python to support data-driven decisions.",
+        "Worked on analyzing real-world datasets, building basic machine learning models, and visualizing insights using Python to support data-driven decisions.",
       achievements: [
         "Analyzed and preprocessed real-world datasets using Python (Pandas, NumPy) to extract meaningful insights through exploratory data analysis.",
         "Built and evaluated basic machine learning models using Scikit-learn to understand patterns and improve prediction accuracy.",
